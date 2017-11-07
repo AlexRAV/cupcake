@@ -1,1 +1,0 @@
-export const TOGGLE_HELLO = 'TOGGLE_HELLO';

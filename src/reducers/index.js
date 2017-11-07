@@ -1,4 +1,4 @@
 import { combineReducers } from 'redux';
-import helloWorld from './helloWorld';
+import products from './products';
 
-export default combineReducers({helloWorld});
+export default combineReducers({products});
